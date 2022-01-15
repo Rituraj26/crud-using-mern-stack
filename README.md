@@ -1,7 +1,7 @@
 # crud-using-mern-stack
 
 ## Steps
-1. Download the repository and extract the zip folder
+1. Download the repository by clicking on **Code** button and click on **download zip** and extract the zip folder.
 2. Navigate to the folder using **_Terminal_** or **_CMD_** (cd path_to_directory)
 3. Get the mongodb url from Mongo Atlas and paste in **config/db.js** file 
 4. Run the command **_npm i_** or **_npm install_** (It will install all the packages from package.json file and create a new folder called node_modules)
